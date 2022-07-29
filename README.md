@@ -1,5 +1,6 @@
 # Upgraded-E-Portfolio
 
-This is an upgrade to my first e-portfolio website. 
+This is an upgrade to my first e-portfolio website. Link is attatched below.
 
-[Click here](https://elvis808.github.io/Upgraded-E-Portfolio/)
+[LIVE SITE](https://elvis808.github.io/Upgraded-E-Portfolio/)
+
