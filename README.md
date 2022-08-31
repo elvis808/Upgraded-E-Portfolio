@@ -1,6 +1,6 @@
 # Upgraded-E-Portfolio
 
-This E-Portfolio was created as a way to showcase my projects. 
+This E-Portfolio was created to showcase my projects and personal achievements.
 
 -Made with Html, CSS, JavaScript. 
 
