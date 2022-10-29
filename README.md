@@ -1,6 +1,6 @@
 # Upgraded-E-Portfolio
 
-This E-Portfolio was created to showcase my projects! Check it out!
+This E-Portfolio was created to showcase my projects! Check it out! 
 
 ![personal website pic](https://user-images.githubusercontent.com/67409144/188532867-e98d0e17-be0d-403b-86d5-ea01a2c8b24a.png)
 
